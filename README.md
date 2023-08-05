@@ -44,22 +44,6 @@ https://formilyjs.org
 
 https://v1.formilyjs.org
 
-## Community
 
-- [formilyjs](https://github.com/formilyjs)
-- [designable](https://github.com/alibaba/designable)
-- [icejs](https://github.com/alibaba/ice)
 
-## How to contribute?
 
-- [Contribute document](https://formilyjs.org/zh-CN/guide/contribution)
-
-## Contributors
-
-This project exists thanks to all the people who contribute.
-<a href="https://github.com/alibaba/formily/graphs/contributors"><img src="https://contrib.rocks/image?repo=alibaba/formily" /></a>
-
-## LICENSE
-
-Formily is open source software licensed as
-[MIT](https://github.com/alibaba/formily/blob/master/LICENSE.md).
